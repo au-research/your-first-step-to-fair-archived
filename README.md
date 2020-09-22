@@ -1,2 +1,7 @@
 # OAWeek2020
-Workshops for Australasian OA week 2020
+
+These workshop are being delivered during OA week 2020
+
+The material is open and shareable under a CC-BY licence. (with the exception of any third party logos)
+
+Anyone is welcome to fork the repository and adapt it to their needs, as long as the original creators are credited. Please let us know if you do!
