@@ -1,6 +1,6 @@
 # OAWeek2020
 
-These workshop are being delivered during OA week 2020
+These workshops are being delivered during OA week 2020
 
 The material is open and shareable under a CC-BY licence. (with the exception of any third party logos)
 
