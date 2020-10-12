@@ -5,7 +5,8 @@ At the end of this workshop you will be able to:
 - Identify key resources to make work immmeditaely OA
 - Understand long term resources/initiatives that have been shown to be crucial 
 - Have strategies to advocate sustainably for the long term
-As part of the orkshop we will discuss ways to:
+
+As part of the workshop we will discuss ways to:
 - Plan an advocacy workshop
 - Decide on your target audience
 - Identify what resources you'll need
