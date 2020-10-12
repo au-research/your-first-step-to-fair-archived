@@ -7,7 +7,7 @@ At the end of this workshop you will be able to:
 - Have strategies to advocate sustainably for the long term
 
 As part of the workshop we will discuss ways to:
-- Plan an advocacy workshop
+- Plan an interesting advocacy workshop
 - Decide on your target audience
 - Identify what resources you'll need
 - Plan constructive follow up
