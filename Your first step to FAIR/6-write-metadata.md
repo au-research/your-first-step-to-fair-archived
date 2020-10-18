@@ -20,3 +20,7 @@ Interoperability, and Reusability.
 
 A very important feature is that you can reserve a DOI for inclusion in your publication while your upload is still in draft. This means that you
 can include the DOI in your manuscript before you are ready to release your data.
+
+## Activity
+
+Upload the [pv-output dataset](pv-output.csv) to Zenodo Sandbox.
