@@ -4,7 +4,7 @@ Some useful links from the 22/10/2020 workshop chat
 OA week sessions:
 https://aoasg.org.au/open-access-week-2020
 
-Wikicite:
+Wikicite conference session:
 https://w.wiki/gma
 
 Hatnote:
