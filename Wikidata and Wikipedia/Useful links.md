@@ -13,17 +13,16 @@ http://listen.hatnote.com/#wikidata
 Bubble diagram of thesis topics:
 https://w.wiki/hyQ
 
-This presentation:
-https://github.com/VBOz/OAWeek2020/tree/master/Wikidata%20and%20Wikipedia  
-and
-https://commons.wikimedia.org/wiki/File:Wikidata_for_academics_workshop.pdf
-
 Browser extension:
 https://www.wikidata.org/wiki/Wikidata:Entity_Explosion
+
+100,000,001th Wikidata item:
+https://www.wikidata.org/wiki/Q100000001 (Australian) Franklin Early Childhood School
+
+Workshop slides:  
+https://github.com/VBOz/OAWeek2020/tree/master/Wikidata%20and%20Wikipedia  
+https://commons.wikimedia.org/wiki/File:Wikidata_for_academics_workshop.pdf
 
 Additional teaching notes:  
 https://librarycarpentry.org/lc-wikidata/  
 https://www.wikidata.org/wiki/User:Einebillion/Teaching_notes
-
-100,000,001th Wikidata item:
-https://www.wikidata.org/wiki/Q100000001 (Australian) Franklin Early Childhood School
