@@ -1,7 +1,6 @@
-# OAWeek2020
+# Your first step to FAIR
 
-These workshops are being delivered during OA week 2020
+This directory contains the materials for a 45-minute workshop that gives a brief overview of the FAIR principles, including the easiest way to make
+a simple dataset FAIR.
 
-The material is open and shareable under a CC-BY licence (with the exception of any third party content).
-
-Anyone is welcome to fork the repository and adapt it to their needs, as long as the original creators are credited. Please let us know if you do!
+This workshop was originally developed for Open Access Week 2020 by Matthias Liffers at the [Australian Research Data Commons](https://www.ardc.edu.au/).
