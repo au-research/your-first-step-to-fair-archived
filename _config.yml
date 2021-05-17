@@ -21,7 +21,7 @@
 title: Your first step to FAIR
 email: contact@ardc.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  GitHub for collaborative projects is a four hour workshop.
+  A straighforward approach to FAIR data.
 baseurl: "/your-first-step-to-fair" # the subpath of your site, e.g. /blog
 url: "https://au-research.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ARDC_AU
