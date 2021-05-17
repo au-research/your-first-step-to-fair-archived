@@ -5,6 +5,20 @@ permalink: /
 
 Welcome to the Australian Research Data Commons' *Your first step to FAIR* course!
 
+## Course description
+
+This workshop give a brief overview of the FAIR principles, including a method way to make a one-file dataset FAIR.
+
+## Learning objectives
+
+By the end of this workshop, learners will be able to:
+
+* List the FAIR foundation principles
+* Upload a dataset to Zenodo
+* Write a metadata record
+
+## Episodes
+
 | Time | Episode |
 | --- | --- |
 | 0:00 | [Introduction]({{ site.baseurl }}/1-introductions) |
