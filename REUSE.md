@@ -3,7 +3,7 @@ title: Reuse
 permalink: /reuse
 ---
 
-## Ways to reuse the FAIR Data 101 material:
+## Ways to reuse the Your first step to FAIR traiing material:
 
 -   Use as a self paced learning activity or as a refresher
 -   Adopt it as suggested training for all staff
@@ -12,7 +12,7 @@ permalink: /reuse
 
 ## Ideas for reusing these materials
 
-The possibilities are endless! The materials developed for the FAIR Data 101 course
+The possibilities are endless! The materials developed for the Your first step to FAIR
 can be used however you wish. Some ideas
 and suggestions are below:
 
@@ -22,27 +22,12 @@ Individuals or small groups can work through the program at their own
 pace.
 
 -   Work through the modules in your own time
--   Complete activities and quizzes as a group, or work separately and compare your answers
--   Hold your own discussion sessions, using the discussion topics as conversation-starters
--   Complete all four modules, or just the ones you most need to know about or have
-    an interest in
+-   Complete activities as a group, or work separately and compare your answers
 
 ### Customise things for different audiences
 
--   Change the activity links to showcase your data services
+-   Change the links to showcase your data services
 -   Adapt the modules for specific audiences and disciplines
-
-### Run your own short courses
-
-Each module has its own section containing the materials and resources on that topic. 
-Run some short courses for your work group, new inductees or
-other groups at your institution.
-
--   Each module takes around 3 hours to complete - have your learners watch the webinars
-    and complete the activities and quizzes in their own time, and hold a 45-minute 
-    discussion session for each module
--   Migrate the quizzes into the software of your choice to use as a measure of participation or an assessment tool
-
 
 If you have questions or comments about any of this material you can share
 them by tweeting to
@@ -50,9 +35,9 @@ them by tweeting to
 the [Data Librarians
 Slack Workspace](https://tiny.cc/data-librarians).
 
-## License for reuse of GitHub for collaborative projects materials
+## License for reuse of Your first step to FAIR
 
-All FAIR Data 101 materials are licensed under a [Creative
+All Your first step to FAIR materials are licensed under a [Creative
 Commons Attribution 4.0 licence (CC-BY)](https://creativecommons.org/licenses/by/4.0/), meaning you can reuse and republish with attribution to the
 Australian Research Data Commons (ARDC).
 
@@ -66,7 +51,7 @@ A snapshot of this repository is periodically saved to Zenodo, after major updat
 
 ## Examples of reuse
 
-Have you adapted FAIR Data 101 for your institution? [Let us
+Have you adapted Your first step to FAIR for your institution? [Let us
 know](mailto:contact@ardc.org.au) so we can feature your program here.
 
 
