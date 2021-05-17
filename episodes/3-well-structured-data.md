@@ -1,4 +1,7 @@
-# Well-structured data
+---
+title: Well-structured data
+permalink: /3-well-structured-data
+---
 
 During this workshop, we will be using an example dataset of [daily output observations from a residential solar PV system for 2019](pv-output.csv).
 

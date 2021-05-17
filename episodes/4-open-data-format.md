@@ -1,4 +1,7 @@
-# Open data formats
+---
+title: Open data format
+permalink: /4-open-data-format
+---
 
 An "open" data format is one where the standard describing the data is in the public domain, or is licenced so that it is freely
 usable by anyone without any barriers.

@@ -7,12 +7,13 @@ Welcome to the Australian Research Data Commons' *Your first step to FAIR* cours
 
 | Time | Episode |
 | --- | --- |
-| 0:00 | [Setup and introductions]({{ site.baseurl }}/0-setup-and-introductions) |
-| 0:00 | [Using GitHub to manage non-code projects]({{ site.baseurl }}/1-using-github-to-manage-non-code-projects) |
-| 0:00 | [Creating a project repo]({{ site.baseurl }}/2-creating-a-project) |
-| 0:00 | [Editing a file]({{ site.baseurl }}/3-editing-a-file) |
-| 0:00 | [Good collaborative practices]({{ site.baseurl }}/4-good-collaborative-practices) |
-| 0:00 | [Contributing to a repo]({{ site.baseurl }}/5-contributing-to-a-repo) |
+| 0:00 | [Introduction]({{ site.baseurl }}/1-introductions) |
+| 0:05 | [More FAIR than unFAIR]({{ site.baseurl }}/2-more-fair-than-unfair) |
+| 0:10 | [Well-structured data]({{ site.baseurl }}//3-well-structured-data) |
+| 0:20 | [Open data format]({{ site.baseurl }}/4-open-data-format) |
+| 0:25 | [Select a data repository]({{ site.baseurl }}/5-select-a-data-repository) |
+| 0:30 | [Write metadata]({{ site.baseurl }}/6-write-metadata) |
+| 0:40 | [Use yourDOI]({{ site.baseurl }}/7-use-your-doi) |
 
 ## Course team
 

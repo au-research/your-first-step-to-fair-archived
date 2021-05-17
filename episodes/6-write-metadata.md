@@ -1,4 +1,7 @@
-# Write metadata
+---
+title: Write metadata
+permalink: /6-write-metadata
+---
 
 Once you are logged in to Zenodo, go to the [new upload page](https://sandbox.zenodo.org/deposit/new).
 

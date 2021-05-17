@@ -1,4 +1,7 @@
-# Introduction
+---
+title: Introduction
+permalink: /1-introduction
+---
 
 By the end of this workshop, attendees can:
 

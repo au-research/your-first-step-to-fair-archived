@@ -1,4 +1,7 @@
-# Use your DOI
+---
+title: Use your DOI
+permalink: /7-use-your-doi
+---
 
 Once you have a DOI in your dataset, you can now include it in your manuscript's Data Availability Statement. If you're not sure what to write, consider formatting it like a citation:
 

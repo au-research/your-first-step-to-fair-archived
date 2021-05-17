@@ -1,4 +1,7 @@
-# More FAIR than unFAIR
+---
+title: More FAIR than unFAIR
+permalink: /2-more-fair-than-unfair
+---
 
 If you go through the FAIR guiding principles in detail, it can get overwhelming. Getting your data to a state of FAIR transendence involves a lot of
 planning and work.
