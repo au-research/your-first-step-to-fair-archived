@@ -28,7 +28,7 @@ By the end of this workshop, learners will be able to:
 | 0:20 | [Open data format]({{ site.baseurl }}/4-open-data-format) |
 | 0:25 | [Select a data repository]({{ site.baseurl }}/5-select-a-data-repository) |
 | 0:30 | [Write metadata]({{ site.baseurl }}/6-write-metadata) |
-| 0:40 | [Use yourDOI]({{ site.baseurl }}/7-use-your-doi) |
+| 0:40 | [Use your DOI]({{ site.baseurl }}/7-use-your-doi) |
 | 0:45 | [Assess yourself]({{ site.baseurl}}/8-assess-yourself) |
 
 ## Course team
