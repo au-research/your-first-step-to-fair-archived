@@ -16,6 +16,7 @@ By the end of this workshop, learners will be able to:
 * List the FAIR foundation principles
 * Upload a dataset to Zenodo
 * Write a metadata record
+* Use the ARDC FAIR data self-assessment tool to inform improvements to the FAIRness of their data
 
 ## Episodes
 
