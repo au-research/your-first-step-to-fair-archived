@@ -22,7 +22,7 @@ By the end of this workshop, learners will be able to:
 
 | Time | Episode |
 | --- | --- |
-| 0:00 | [Introduction]({{ site.baseurl }}/1-introductions) |
+| 0:00 | [Introduction]({{ site.baseurl }}/1-introduction) |
 | 0:05 | [More FAIR than unFAIR]({{ site.baseurl }}/2-more-fair-than-unfair) |
 | 0:10 | [Well-structured data]({{ site.baseurl }}/3-well-structured-data) |
 | 0:20 | [Open data format]({{ site.baseurl }}/4-open-data-format) |
