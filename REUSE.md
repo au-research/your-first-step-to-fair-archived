@@ -3,7 +3,7 @@ title: Reuse
 permalink: /reuse
 ---
 
-## Ways to reuse the Your first step to FAIR traiing material:
+## Ways to reuse the Your first step to FAIR training material:
 
 -   Use as a self paced learning activity or as a refresher
 -   Adopt it as suggested training for all staff
