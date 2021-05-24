@@ -13,7 +13,7 @@ By the end of this workshop, attendees can:
 ## The FAIR principles
 
 The FAIR mnemonic stands for Findable, Accessible, Interoperable, and Reusable. These four characteristics of FAIR research outputs are known as the
-FAIR "foundation" principles.
+FAIR foundational principles.
 
 Each foundation principle is then expanded into guiding principles, which are beyond the scope of this workshop. If you would like a deep dive into the
 FAIR guiding principles, consider going through the Australian Research Data Common's [FAIR Data 101 training materials](https://au-research.github.io/FAIR-data-101-training/) or reading through the [GO FAIR website](https://www.go-fair.org/fair-principles/).
