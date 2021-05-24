@@ -16,7 +16,7 @@ The minimum requires for this page are:
 * At least one author (include an [ORCiD](https://orcid.org/)!)
 * Description
 * Access right
-* License
+* Licence
 
 There are many other fields that are *not* required, but filling them will add to the richness of your dataset and aid its Findability,
 Interoperability, and Reusability.
