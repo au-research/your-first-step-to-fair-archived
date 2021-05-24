@@ -9,4 +9,4 @@ The ARDC FAIR data self-assessment tool can highlight how you can make your data
 
 ## Activity
 
-Use the [ARDC FAIR data self-assessment tool](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/) to assess the dataset you just uploaded to Zenodo. What improvements can you make?
+Use the [ARDC FAIR data self-assessment tool](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/) to assess the dataset you just uploaded to Zenodo. What improvements can you make to make your data even more FAIR?
