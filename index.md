@@ -7,7 +7,7 @@ Welcome to the Australian Research Data Commons' *Your first step to FAIR* cours
 
 ## Course description
 
-This workshop give a brief overview of the FAIR principles, including a method to make a one-file dataset FAIR.
+This workshop gives a brief overview of the FAIR principles, including a method to make a one-file dataset FAIR.
 
 ## Learning objectives
 
