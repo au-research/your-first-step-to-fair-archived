@@ -15,4 +15,4 @@ Many programs that prefer using closed, propietary data formats (like Microsoft 
 
 ## Activity
 
-Discuss some of the limitations of propietary file formats.
+Discuss some of the limitations of propietary file formats. Examples of proprietary file formats include JPEG, PDF, and DOCX.
