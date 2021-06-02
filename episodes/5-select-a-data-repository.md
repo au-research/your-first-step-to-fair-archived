@@ -9,7 +9,7 @@ There are no hard and fast rules when choosing a repository for your data, but t
 * Pick a repository that will provide you with a PID, like a DOI
 * Not all repositories will stand the test of time
 
-Your publisher might have a preferred repository. For example, Nature Publishing [mandates that specific kinds of data go in specific repositories](https://www.nature.com/nature-research/editorial-policies/reporting-standards#mandates-for-specific-datasets).
+Your publisher might have a preferred repository. For example, Nature Publishing [mandates that specific kinds of data go in specific repositories](https://www.nature.com/nature-research/editorial-policies/reporting-standards#mandates-for-specific-datasets). PLOS journals also provide lists of recommended repositories, for example [PLOS Biology](https://journals.plos.org/plosbiology/s/recommended-repositories).
 
 For this workshop, we will be using [Zenodo](https://zenodo.org/). Zenodo is a discipline-agnostic repository that will provide you with a DOI for
 easier citation. It is funded by the European Union and is highly likely to remain operational for the foreseeable future.
