@@ -8,7 +8,7 @@ planning and work.
 
 The FAIRness of a research object is on a continuum. Even taking a few small steps to FAIRifying your data will make a difference to the usefulness of that data, for both yourself and others.
 
-## How do you make data FAIR?
+## How do you start making data FAIR?
 
 Ensure your data is *well-structured* and in an *open format*, then deposit it into a *reliable* repository with *good metadata* and apply an
 *open licence*.
