@@ -16,9 +16,9 @@ The FAIR mnemonic stands for Findable, Accessible, Interoperable, and Reusable. 
 FAIR foundational principles.
 
 Each foundation principle is then expanded into guiding principles, which are beyond the scope of this workshop. If you would like a deep dive into the
-FAIR guiding principles, consider going through the Australian Research Data Common's [FAIR Data 101 training materials](https://au-research.github.io/FAIR-data-101-training/) or reading through the [GO FAIR website](https://www.go-fair.org/fair-principles/).
+FAIR guiding principles, consider going through the Australian Research Data Common's [FAIR Data 101 training materials](https://au-research.github.io/FAIR-data-101-training/) or [FAIR data guide](https://ardc.edu.au/resources/working-with-data/fair-data/).
 
-FAIR goes beyond "open" by acknowledging that not all data should be made open, and that for data to be truly useful beyond its original intent, it needs to meet certain characteristics. Most of these characteristics apply to both the data and the metadata that describes it.
+FAIR goes beyond "open" by acknowledging that not all data can be made open, and that for data to be truly useful beyond its original intent, it needs to meet certain characteristics. This will enable optimal reuse of the data by for *both* humans *and* machines. Most of these characteristics apply to both the data and the metadata that describes it.
 
 ### Findable
 
@@ -26,7 +26,7 @@ It is easy to discover that a certain dataset exists, and can be uniquely identi
 
 ### Accessible
 
-The data is either open and free-to-download, or the process by which the data can be accessed is described.
+The data is either open and free to download or access, or the process by which the data can be accessed is described.
 
 ### Interoperable
 
