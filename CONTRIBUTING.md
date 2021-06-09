@@ -12,5 +12,6 @@ If you are not comfortable submitting a pull request, you can also [submit an is
 By submitting content to Your first step to FAIR, you confirm and agree that all material submitted may be distributed under a [Creative Commons Attribution Licence 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 2021 ARDC contributing team
-* [Liz Stokes](https://orcid.org/0000-0002-2973-5647)
 * [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
+* [Paula Andrea Martinez](0000-0002-8990-1985)
+* [Keith Russell](0000-0001-5390-2719)
