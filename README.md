@@ -42,6 +42,8 @@ Please adhere to the [ARDC's Code of Conduct](https://ardc.edu.au/code-of-conduc
 
 ## Licence
 
-These materials are covered by a [Creative Commons Attribution 4.0 International licence](LICENCE.md)
+All content of the ARDC Your First steps to FAIR is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence. 
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
+The [licence](./LICENCE.md) is also in this repo.
 
 
