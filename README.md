@@ -17,16 +17,19 @@ By the end of this workshop, learners will be able to:
 
 ## Episodes
 
+This repo can be view as a website via [https://au-research.github.io/your-first-step-to-fair](https://au-research.github.io/your-first-step-to-fair).
+The contents and suggested time are shown below.
+
 | Time | Episode|
 | --- | --- |
-| 0:00 | [Introduction]([site.baseurl]/1-introduction) |
-| 0:05 | [More FAIR than unFAIR]({{ site.baseurl }}/2-more-fair-than-unfair) |
-| 0:10 | [Well-structured data]({{ site.baseurl }}/3-well-structured-data) |
-| 0:20 | [Open data format]({{ site.baseurl }}/4-open-data-format) |
-| 0:25 | [Select a data repository]({{ site.baseurl }}/5-select-a-data-repository) |
-| 0:30 | [Write metadata]({{ site.baseurl }}/6-write-metadata) |
-| 0:40 | [Use your DOI]({{ site.baseurl }}/7-use-your-doi) |
-| 0:45 | [Assess yourself]({{ site.baseurl}}/8-assess-yourself) |
+| 0:00 | [Introduction]([https://au-research.github.io/your-first-step-to-fair/1-introduction) |
+| 0:05 | [More FAIR than unFAIR](https://au-research.github.io/your-first-step-to-fair/2-more-fair-than-unfair) |
+| 0:10 | [Well-structured data](https://au-research.github.io/your-first-step-to-fair/3-well-structured-data) |
+| 0:20 | [Open data format](https://au-research.github.io/your-first-step-to-fair/4-open-data-format) |
+| 0:25 | [Select a data repository](https://au-research.github.io/your-first-step-to-fair/5-select-a-data-repository) |
+| 0:30 | [Write metadata](https://au-research.github.io/your-first-step-to-fair/6-write-metadata) |
+| 0:40 | [Use your DOI](https://au-research.github.io/your-first-step-to-fair/7-use-your-doi) |
+| 0:45 | [Assess yourself](https://au-research.github.io/your-first-step-to-fair/8-assess-yourself) |
 
 ## Contributing
 
@@ -41,4 +44,4 @@ Please adhere to the [ARDC's Code of Conduct](https://ardc.edu.au/code-of-conduc
 
 These materials are covered by a [Creative Commons Attribution 4.0 International licence](LICENCE.md)
 
-[site-url]: https://au-research.github.io/your-first-step-to-fair
+
