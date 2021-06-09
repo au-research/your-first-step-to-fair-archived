@@ -9,6 +9,10 @@ Welcome to the Australian Research Data Commons' *Your first step to FAIR* cours
 
 This workshop gives a brief overview of the [FAIR principles](https://www.go-fair.org/fair-principles/), including a method to make a one-file dataset FAIR.
 
+The FAIR Principles put specific emphasis on enhancing the ability for individuals and machines to find and reuse the data. Applying the FAIR principles to research outcomes benefits the wider research community by enabling future researchers to publish, share, cite and reuse the research outputs.
+
+This material describe each of the four foundational principles Findable, Accessible, Interoperable and Reusable and use a simple dataset for exemplifying the process of making it FAIR. Note that the FAIR Principles are aspirational and generic.
+
 ## Learning objectives
 
 By the end of this workshop, learners will be able to:
@@ -31,6 +35,6 @@ By the end of this workshop, learners will be able to:
 | 0:40 | [Use your DOI]({{ site.baseurl }}/7-use-your-doi) |
 | 0:45 | [Assess yourself]({{ site.baseurl}}/8-assess-yourself) |
 
-## Course team
+## Author
 
 * [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
