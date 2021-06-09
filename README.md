@@ -19,7 +19,7 @@ By the end of this workshop, learners will be able to:
 
 | Time | Episode|
 | --- | --- |
-| 0:00 | [Introduction]({{ site.baseurl }}/1-introduction) |
+| 0:00 | [Introduction]([site.baseurl]/1-introduction) |
 | 0:05 | [More FAIR than unFAIR]({{ site.baseurl }}/2-more-fair-than-unfair) |
 | 0:10 | [Well-structured data]({{ site.baseurl }}/3-well-structured-data) |
 | 0:20 | [Open data format]({{ site.baseurl }}/4-open-data-format) |
@@ -30,10 +30,7 @@ By the end of this workshop, learners will be able to:
 
 ## Contributing
 
-Contributions are always welcome!
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for ways to get started.
-
+Contributions are always welcome! See [`CONTRIBUTING.md`](CONTRIBUTING.md) for ways to get started. 
 Please adhere to the [ARDC's Code of Conduct](https://ardc.edu.au/code-of-conduct-for-ardc-activities/)
 
 ## Authors
@@ -43,3 +40,5 @@ Please adhere to the [ARDC's Code of Conduct](https://ardc.edu.au/code-of-conduc
 ## Licence
 
 These materials are covered by a [Creative Commons Attribution 4.0 International licence](LICENCE.md)
+
+[site-url]: https://au-research.github.io/your-first-step-to-fair
